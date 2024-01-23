@@ -1,0 +1,14 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "title": "Estudar VueJS",
+            "completed": true
+        },
+        {
+            "id": 2,
+            "title": "Estudar JavaScript",
+            "completed": true
+        }
+    ]
+}
